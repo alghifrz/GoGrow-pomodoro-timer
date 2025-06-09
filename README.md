@@ -19,8 +19,6 @@ Welcome to **GoGrow**, a lightweight and simple Pomodoro timer application desig
 
 ## 🖼️ Screenshots
 
-> *(Add your own screenshots here)*
-
 ![Screenshot 1](public/ss.png)  
 
 ---
